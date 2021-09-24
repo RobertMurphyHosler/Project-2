@@ -1,0 +1,1 @@
+image = pygame.image.load(r'C:\Users\rober\Pictures\Green_Octopus.jpg')
