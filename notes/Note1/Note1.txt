@@ -1,0 +1,35 @@
+//Tasks left
+1.  Inventory System.
+2.  3 more attacks for the player.
+	2.1  Maybe use a sword slash.
+	2.2  Maybe use a paralizing attack.
+	2.3  Set up a posion attack.
+	2.4  Need to figure out how to set up the ability set attacks to different keys.
+	2.5  If figure that out, then figure out how to switch between attacks to have only one attack button and an attack switch button.
+3.  4 different attacks for enemies.
+	3.1  All have the same basic attack (counts as one of the 4 attacks).
+	3.2  An attack for the ranged unit. Like an arrow or fireball.
+	3.3  An attack for the close non tank unit. Maybe a quick slash of the hand instead of the base attack.
+	3.4  An attack for the tank unit. Maybe give them a battle hammer for an attack.
+4.  Make merchant able to actually sell player stuff.
+	4.1  As it stands make it so the player can purchase more health.
+	4.2  Then be able ot purchase stuff later if theres time later.
+		 4.2.1 Items can include different weapons or the ability to buy some of those different attacks.
+
+
+//Tasks done
+1.  Have all the floors set up.
+2.  3 Different enemeis set up.
+3.  The ablility to switch rooms.
+4.  Set up collisions.
+    4.1  Player collisions set up nicely
+	4.2  Basic Collisions set up for the enemeis, want to set up more complex collsions
+5.  Enemies can drop different loot.
+6.  The health bar is able to switch between the different sprites for the different amount of current health.
+
+//General info
+Temp fix to the collisions for enemies as it does appear to work, though I want to make a better one.
+
+
+
+
